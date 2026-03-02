@@ -84,6 +84,7 @@
                 android:text="📖 Read"
                 android:textColor="#0f0f0f"
                 android:textStyle="bold"
+                android:layout_marginEnd="6dp"
                 android:backgroundTint="#FF6B1A"
                 android:stateListAnimator="@null"/>
 
