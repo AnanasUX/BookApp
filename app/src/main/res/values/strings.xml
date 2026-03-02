@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="favorite_genres">Favorite Genres</string>
+    <string name="see_all">See all</string>
+</resources>
